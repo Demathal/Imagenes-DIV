@@ -1,0 +1,9 @@
+.contenedor-imagen {
+    width: 600px; /*ancho del contenedor */
+    height: 400px; /*altura del contenedor */        
+border: 1px; /*centra la imagen deltro del div */
+}
+.contenedor-imagen img {
+    max-width: 100%; /* Asegura que la imagen no exceda el ancho del contenedor */
+    max-height: 100%; /* Asegura que la imagen no exceda la altura del contenedor */
+}
